@@ -65,7 +65,7 @@ and the name as (depending on your mood):
  - "global information tracker": you're in a good mood, and it actually
    works for you. Angels sing, and a light suddenly fills the room.
  - "goddamn idiotic truckload of sh*t": when it breaks
-
+##Установка
 [INSTALL]: INSTALL
 [Documentation/gittutorial.adoc]: Documentation/gittutorial.adoc
 [Documentation/giteveryday.adoc]: Documentation/giteveryday.adoc
